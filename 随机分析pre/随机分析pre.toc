@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}泊松过程$N(t)$}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}补偿泊松过程$M(t)$}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}复合泊松过程$Q(t)$}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}分解定理}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}一般的跳过程}{6}{section.2}%
+\contentsline {section}{\numberline {3}跳过程的随机积分}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}鞅性}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}二次变差和交互变差}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}跳过程的$I\ddot {t}o$公式}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}例子：$It \ddot {o}$乘积法则}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}例子：同一个域流下的布朗运动和泊松过程相互独立}{10}{subsection.4.2}%
